@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bousseria-youcef
-- 👀 I’m interested in web development  and I want to work as a web developer Front End.
+- 👀 I’m interested about web development  and I want to work as a web developer Front End.
 - 🌱 I'm currently learning HTML, CSS  and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
